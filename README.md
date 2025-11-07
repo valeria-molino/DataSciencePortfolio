@@ -19,7 +19,7 @@ Each project is self-contained, using real-world data and reproducible analysis,
 
 | # | Project | Description | Status |
 |---|----------|--------------|--------|
-| 1 | [**The Data of Well-being**]([https://github.com/<tuo_username>/the-data-of-wellbeing](https://github.com/valeria-molino/The-Data-of-well-being/blob/main/The_Data_of_Well_being.ipynb)) | EDA on global well-being — exploring how health, education, and economy interact across countries | ✅ Done |
+| 1 | [**The Data of Well-being**](https://github.com/valeria-molino/The-Data-of-well-being) | EDA on global well-being — exploring how health, education, and economy interact across countries | ✅ Done |
 | 2 | *Predicting Well-being* | Machine Learning models to predict happiness or well-being scores from socio-economic indicators | 🔜 Planned |
 | 3 | *Bayesian Well-being* | Quantifying uncertainty and credibility in well-being metrics | 🔜 Planned |
 | 4 | *Recognizing Happiness* | Deep Learning on images — visual understanding of human emotions | 🔜 Planned |
